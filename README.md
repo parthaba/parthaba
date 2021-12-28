@@ -1,4 +1,10 @@
-### Hi there 👋
+🎯 CS Specialist at UofT looking for summer internships!
+
+🖥️ View my Website [here](parthaba.github.io)
+
+📧 ameen.parthab@mail.utoronto.ca
+
+📞 (647) 921-1845
 
 <!--
 **parthaba/parthaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
